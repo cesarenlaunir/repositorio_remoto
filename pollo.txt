@@ -1,1 +1,3 @@
 Receta Pollo Asado:
+  - Matar un pollo
+  - Asarlo
